@@ -1,5 +1,5 @@
 
-# For you guys to use under the [WTFPL](http://wtfpl.net/) – Do What the F*** You Want to Public License
+# For you guys to use under the terms of the [WTF Public License](http://wtfpl.net/) as written in the `LICENSE` file
 
 sfxboard
 
