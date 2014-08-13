@@ -1,0 +1,14 @@
+{
+  "name": "sfxboard",
+  "version": "0.0.1",
+  "description": "just another sfxboard",
+  "author": {
+    "name": "Ambrose Chua",
+    "email": "amb.ccm@gmail.com"
+  },
+  "dependencies": {
+    "socket.io": ""
+  },
+  "private": true,
+  "main": "server.js"
+}

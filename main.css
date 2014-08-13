@@ -1,0 +1,21 @@
+body {
+	font-family: "Exo", "Comic Sans MS";
+}
+table td {
+	padding: 4px;
+}
+
+table td.active {
+	background-color: #000;
+	color: #fff;
+}
+
+#gainctrl {
+	width: 300px;
+}
+
+#keys {
+	width: 100%;
+	-webkit-column-count: 2;
+	column-count: 2;
+}
