@@ -3,6 +3,11 @@
 
 sfxboard
 
+[Setting up||Setting-Up]
+
+Anyways, [bang](http://j.mp/1ql5UK5).
+
 ## Clues to using this: 
 
 Requires NPM and Node.js. 
+
