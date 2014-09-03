@@ -3,7 +3,7 @@
 
 sfxboard
 
-[[Setting up|Setting-Up]]
+[Setting up](https://github.com/euricainc/sfxboard/wiki/Setting-Up)
 
 Anyways, [bang](http://j.mp/1ql5UK5).
 
